@@ -6,7 +6,7 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.Aspnetcore.authentication" Version="2.2.0" />
-    <PackageReference Include="Microsoft.Aspnetcore.authentication.jwtbearer" Version="3.1.1" />
+    <PackageReference Include="Microsoft.Aspnetcore.authentication.jwtbearer" Version="3.1.18" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.1">
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
       <PrivateAssets>all</PrivateAssets>
